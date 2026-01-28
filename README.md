@@ -20,7 +20,8 @@ Here is a temporary grading policy:
 - The total is: 100 Points 
 
 ### References
-- The Textbook: VHDL for Logic Synthesis, 3rd Edition, by Andrew Rushton (Author) ==> [Download PDF](https://drive.google.com/file/d/1la7JDKuey_cesMylXRn50X3djWKj8Vrf/view?usp=drive_link). 
+- The Textbook: VHDL for Logic Synthesis, 3rd Edition, by Andrew Rushton (Author) ==> [Download PDF](https://drive.google.com/file/d/1la7JDKuey_cesMylXRn50X3djWKj8Vrf/view?usp=drive_link).
+- The Designer's Guide to VHDL, Third Edition (Systems on Silicon), 3rd Edition, by Peter J. Ashenden (Author)  [Download PDF](https://drive.google.com/file/d/1a_RjoF3yabyzO4bksdhGoVfHmQz6OFvj/view?usp=drive_link)
    
 
 
