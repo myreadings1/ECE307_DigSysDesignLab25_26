@@ -20,9 +20,8 @@ Here is a temporary grading policy:
 - The total is: 100 Points 
 
 ### References
-- The Textbook: C Programming: A Modern Approach, 2nd Edition, by K.N King ==> [Download PDF](https://drive.google.com/file/d/1QodDrf0COqPnU4hTlUTl3U21Yi-xjIse/view?usp=sharing). 
-   - Solutions for the textbook exercises ==> [Link on GitHub](https://github.com/mhamdyx/C-programming-A-Modern-Approach-2nd-ed-Solutions?tab=readme-ov-file).
-- MIT OpenCourseWare [Website Link](https://ocw.mit.edu/courses/6-087-practical-programming-in-c-january-iap-2010/pages/lecture-notes/)
+- The Textbook: VHDL for Logic Synthesis, 3rd Edition, by Andrew Rushton (Author) ==> [Download PDF](https://drive.google.com/file/d/1la7JDKuey_cesMylXRn50X3djWKj8Vrf/view?usp=drive_link). 
+   
 
 
 ### Compile and Run C Programs on Windows Machine
