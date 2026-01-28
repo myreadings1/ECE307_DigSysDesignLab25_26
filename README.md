@@ -5,7 +5,7 @@ This webpage is dedicated for the second year students of ECE307 Digital System 
 
 ### Class Instructors
 - Wahhab R. Mousa (Email: wahhab.albazrqa@uokufa.edu.iq)
-- Estabrak Mohamad
+- Istabrak Mohamad
 
 ### Grading Policy 
 Here is a temporary grading policy:
