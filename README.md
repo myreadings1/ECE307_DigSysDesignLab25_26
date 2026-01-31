@@ -22,7 +22,7 @@ Here is a temporary grading policy:
 ### References
 - (1) Digital Design With an Introduction to the Verilog HDL, 5th Edition, by M. Morris Mano, and Michael D. Ciletti ==> [PDF File](https://drive.google.com/file/d/1SPY81cQZhXOsGN09_fuG15QfuJIaw2fg/view?usp=drive_link)
 - (2) VHDL for Logic Synthesis, 3rd Edition, by Andrew Rushton  ==> [Download PDF](https://drive.google.com/file/d/1la7JDKuey_cesMylXRn50X3djWKj8Vrf/view?usp=drive_link).
-- (3) The Designer's Guide to VHDL, 3rd Edition (Systems on Silicon), 3rd Edition, by Peter J. Ashenden  [Download PDF](https://drive.google.com/file/d/1a_RjoF3yabyzO4bksdhGoVfHmQz6OFvj/view?usp=drive_link)
+- (3) The Designer's Guide to VHDL, 3rd Edition (Systems on Silicon), by Peter J. Ashenden  [Download PDF](https://drive.google.com/file/d/1a_RjoF3yabyzO4bksdhGoVfHmQz6OFvj/view?usp=drive_link)
    
 
 
