@@ -82,7 +82,7 @@ One of the course requirements is the mini project. A student is required to wor
 
 
 ### Exercises From The Reference Textbook
-- [Website Link](https://github.com/myreadings1/ECE211_Prog_III_25_26/blob/main/C_Code_Questions.md)
+- [Website Link](xxx)
 
 
 ### General Examples on HDL Code 
