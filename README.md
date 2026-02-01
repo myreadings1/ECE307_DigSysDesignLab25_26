@@ -54,7 +54,7 @@ A student should register online with the following website to run HDL code [Web
    - Late homework submissions (48 Hours) will receive a maximum grade of 50 out of 100. Late homework submissions (more than 48 Hours) will receive a maximum grade of 25 out of 100..
 
 - HW1: (Due on: Feb 7th, 2026)
-    - Prepare a presentation (and discussion) about Register-Transfer Level Design (Chapter 2 - Reference 2). You can find useful materials about this topic on the other references. Google offers one of best apllications for slides.
+    - Prepare a presentation (and discussion) about Register-Transfer Level Design (Chapter 2 - Reference 2). You can find useful materials about this topic on the other references. Google offers one of best applications for slides.
     - Register your own online account with (https://www.edaplayground.com).
     - Run and implement the code mentioned in Chapter 2 - Reference 2 online and shared the simulation results (as a text file).
 
