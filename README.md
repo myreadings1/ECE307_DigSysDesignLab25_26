@@ -1,6 +1,6 @@
 # ECE307 Digtal System Design Lab 2025-2026
 
-This webpage is dedicated for the second year students of ECE307 Digital System Design Lan, Class of Spring Semester 2025-2026, with the University of Kufa.
+This webpage is dedicated for the second year students of ECE307 Digital System Design Lab, Class of Spring Semester 2025-2026, with the University of Kufa.
 
 
 ### Class Instructors
