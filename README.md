@@ -88,6 +88,8 @@ One of the course requirements is the mini project. A student is required to wor
 
 ### General Examples on HDL Code 
 - Example 1:
+- 
 
 ### General Articles (مقالات عامة)
+- Introduction about FPGA [PDF Slides](https://drive.google.com/file/d/1jXgGj1KmcdqJAbzNDbOp6iOTxarL_fZC/view?usp=drive_link)
 - هل تشعر بالتشتت وعدم الانتباه؟ اقرا هذا المقال  [Website Link](https://www.aljazeera.net/misc/2025/10/7/%D9%87%D9%84-%D8%AA%D8%B4%D8%B9%D8%B1-%D8%A8%D8%A7%D9%84%D8%AA%D8%B4%D8%AA%D8%AA-%D8%B7%D9%88%D8%A7%D9%84-%D8%A7%D9%84%D9%88%D9%82%D8%AA-%D8%A5%D9%84%D9%8A%D9%83-3-%D8%AE%D8%B7%D9%88%D8%A7%D8%AA)
