@@ -83,7 +83,7 @@ One of the course requirements is the mini project. A student is required to wor
 
 
 ### Exercises From The Reference Textbook
-- [Website Link](xxx)
+- [Website Link](-----)
 
 
 ### General Examples on HDL Code 
