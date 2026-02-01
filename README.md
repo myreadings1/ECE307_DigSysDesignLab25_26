@@ -30,7 +30,7 @@ Here is a temporary grading policy:
 ### Run HDL Code Online
 A student should register online with the following website to run HDL code [Website]==> (https://www.edaplayground.com/).
 - EDA Playground: EDA Playground lets you type in and run HDL code [Website]==> (https://www.edaplayground.com/)
-- Note: a student need to use his academic email address (like: xxx@uokufa.edu.iq)
+- Note: a student needs to use his academic email address (like: xxx@uokufa.edu.iq)
 
 
 
@@ -53,7 +53,11 @@ A student should register online with the following website to run HDL code [Web
    - To submit your homework, make sure to include: (a) Your name in Arabic, (b) Title (like: HW1, HW2 ), (c) Submission date, and (d) A text file (.c) to show your C code.
    - Late homework submissions (48 Hours) will receive a maximum grade of 50 out of 100. Late homework submissions (more than 48 Hours) will receive a maximum grade of 25 out of 100..
 
-- HW1: Due on (TBA)
+- HW1: Due on (Due date: Feb 7th, 2026)
+    - Prepare a presentation (and discussion) about Register-Transfer Level Design (Chapter 2 - Reference 2). You can find useful materials about this topic on the other references. Google offers one of best apllications for slides.
+    - Register your own online account with (https://www.edaplayground.com).
+    - Run and implement the code mentioned in Chapter 2 - Reference 2 online and shared the simulation results (as a text file).
+
   
 - HW2: Due on (TBA)
    
