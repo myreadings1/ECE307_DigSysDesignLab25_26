@@ -88,7 +88,7 @@ One of the course requirements is the mini project. A student is required to wor
 
 
 ### Exercises From The Reference Textbook
-- Website Link
+- General Questions [Website Link](https://github.com/myreadings1/ECE307_DigSysDesignLab25_26/blob/main/SampleQuestions.md)
 
 
 ### General Examples on HDL Code 
