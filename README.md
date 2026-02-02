@@ -67,7 +67,7 @@ A student should register online with the following website to run HDL code [Web
 - General exam policy (for ALL Exams)
    - During the exam, standard A4 white papers and writing pens (blue or black) can be used.
    - On the exam paper, make sure to include: (a) Your name in Arabic, (b) Title (like Quiz1, Quiz2), and (c) Exam date.
-   - Sample questions: [Website Link](xxx)
+   - Sample questions: 
    - Retaking exam is possible. However, students have to inform the instructor beforehand.
 - Quiz1: Date (TBA):
    - Covers all material up to this date.
@@ -88,7 +88,7 @@ One of the course requirements is the mini project. A student is required to wor
 
 
 ### Exercises From The Reference Textbook
-- 
+- Website Link
 
 
 ### General Examples on HDL Code 
