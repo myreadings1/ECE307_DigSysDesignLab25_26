@@ -37,6 +37,7 @@ A student should register online with the following website to run HDL code [Web
 ### Lectures
 - Lecture1: (Date: Feb 1st, 2026):
     - Introduction [PDF Slides](https://drive.google.com/file/d/1VuOEgAenmoIjJlp1oMeV5TnF3_W3wx-N/view?usp=drive_link)
+    - Nice introduction about FPGA on chapter 7 - Reference 1.
 
 - Lab1 (Date: Feb 5th, 2026):
     
