@@ -1,6 +1,6 @@
 # ECE307 Digtal System Design Lab 2025-2026
 
-This webpage is dedicated for the second year students of ECE307 Digital System Design Lab, Class of Spring Semester 2025-2026, with the University of Kufa.
+This webpage is dedicated for the second year students of ECE307 Digital System Design Lab, class of Spring Semester 2025-2026, with the University of Kufa.
 
 
 ### Class Instructors
@@ -67,7 +67,7 @@ A student should register online with the following website to run HDL code [Web
 - General exam policy (for ALL Exams)
    - During the exam, standard A4 white papers and writing pens (blue or black) can be used.
    - On the exam paper, make sure to include: (a) Your name in Arabic, (b) Title (like Quiz1, Quiz2), and (c) Exam date.
-   - Sample questions: [Website Link](https://github.com/myreadings1/ECE211_Prog_III_25_26/blob/main/C_Code_Questions.md)
+   - Sample questions: [Website Link](xxx)
    - Retaking exam is possible. However, students have to inform the instructor beforehand.
 - Quiz1: Date (TBA):
    - Covers all material up to this date.
