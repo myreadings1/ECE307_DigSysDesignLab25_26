@@ -40,9 +40,10 @@ A student should register online with the following website to run HDL code [Web
     - Nice introduction about FPGA on chapter 7 - Reference 1.
 
 - Lab1 (Date: Feb 5th, 2026):
+    - Introduction to VHDL [PDF Slides](https://drive.google.com/file/d/1FUSz9yzAY4LhUf5JKaJ5CMJ-xR7NNxuL/view?usp=drive_link)
     
 
-- Lecture2: (Date: TBA)
+- Lecture2: (Date: Feb 8th, 2026)
    
 
 - Lab2 (Date: TBA):
