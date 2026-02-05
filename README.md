@@ -51,7 +51,7 @@ A student should register online with the following website to run HDL code [Web
 
 ### Homeworks
 - General homework submission policy (for ALL Homeworks):
-   - You may submit your homework to (wahhab.albazrqa@uokufa.edu.iq).
+   - You may submit your homework to the instructor (Email).
    - To submit your homework, make sure to include: (a) Your name in Arabic, (b) Title (like: HW1, HW2 ), (c) Submission date, and (d) files that show your work. If you are required to submit a VHDL code, then you should submit a text file showing your code.
    - Late homework submissions (48 Hours) will receive a maximum grade of 50 out of 100. Late homework submissions (more than 48 Hours) will receive a maximum grade of 25 out of 100..
 
