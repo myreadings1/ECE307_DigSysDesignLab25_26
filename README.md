@@ -86,7 +86,7 @@ A student should register online with the following website to run HDL code [Web
 
 
 ### Mini Project
-One of the course requirements is the mini project. A student is required to work individually to implement one of the following projects. Mini prject submission includes: (1) Lab Implementation, (2) Mini Project submission deadline should be at least 3 days before the end of this course, and (2) Lab Discussion.
+One of the course requirements is the mini project. Students are required to work individually to implement one of the following projects. Mini prject submission includes: (1) Lab Implementation, (2) Mini Project submission deadline should be at least 3 days before the end of this course, and (2) Lab Discussion.
 - List of Mini Projects
 
 
