@@ -59,6 +59,7 @@ A student should register online with the following website to run HDL code [Web
     - Prepare a presentation (and discussion) about Register-Transfer Level Design (Chapter 2 - Reference 2). 
     - Register your own online account with (https://www.edaplayground.com).
     - Run and implement the code mentioned in Chapter 2 - Reference 2 online and shared the simulation results (as a text file).
+    - For HDL code, you have to submit a snapshot for the output of the circuit. 
     - Notes: (a) You can find useful materials about this topic Chapter 8 - Reference 1. (b) Google offers one of best applications for slides (online).
 
   
