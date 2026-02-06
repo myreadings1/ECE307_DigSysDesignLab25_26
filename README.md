@@ -41,6 +41,7 @@ A student should register online with the following website to run HDL code [Web
 
 - Lab1 (Date: Feb 5th, 2026):
     - Introduction to VHDL [PDF Slides](https://drive.google.com/file/d/1FUSz9yzAY4LhUf5JKaJ5CMJ-xR7NNxuL/view?usp=drive_link)
+    - Reference 4 - Ch2 is an important text to understand VHDL.
     
 
 - Lecture2: (Date: Feb 8th, 2026)
