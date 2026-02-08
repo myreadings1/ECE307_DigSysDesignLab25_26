@@ -45,6 +45,7 @@ A student should register online with the following website to run HDL code [Web
     
 
 - Lecture2: (Date: Feb 8th, 2026)
+   - Digital Design with VHDL [PDF Slides](https://drive.google.com/file/d/1lAo07P37E1CP4HXKwlRXxQW5-PMQ2uac/view?usp=drive_link)
    
 
 - Lab2 (Date: TBA):
