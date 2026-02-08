@@ -1,2 +1,4 @@
 ### Questions
-- Design a four-bit shift register with parallel load using D flip-flops. There are two control inputs: shift and load; we refer to them as: S and L. When SL = 10, the content of the register is shifted by one position to the left. The content is shifted to the right when SL=11. New data is loaded into the register when SL = 01. The content of the register does not change when SL = 00. Provide VHDL code for your design.
+- (1) Design a four-bit shift register with parallel load using D flip-flops. There are two control inputs: shift and load; we refer to them as: S and L. When SL = 10, the content of the register is shifted by one position to the left. The content is shifted to the right when SL=11. New data is loaded into the register when SL = 01. The content of the register does not change when SL = 00. Provide VHDL code for your design.
+- (2) Ref4 - Page 50 ==> Example 3.1, Example 3.2.
+- (3) Ref4 - Page 52 ==> Example 3.3
