@@ -24,6 +24,7 @@ Here is a temporary grading policy:
 - (2) VHDL for Logic Synthesis, 3rd Edition, by Andrew Rushton  ==> [Download PDF](https://drive.google.com/file/d/1la7JDKuey_cesMylXRn50X3djWKj8Vrf/view?usp=drive_link).
 - (3) The Designer's Guide to VHDL, 3rd Edition (Systems on Silicon), by Peter J. Ashenden  [Download PDF](https://drive.google.com/file/d/1a_RjoF3yabyzO4bksdhGoVfHmQz6OFvj/view?usp=drive_link)
 - (4) Circuit Design and Simulation with VHDL, Second edition, Volnei A. Pedroni [Link](https://drive.google.com/file/d/1PC2VUzPonmYPslNSovTmmp2mPv8UF6RO/view?usp=sharing)
+- (5) VHDL Coding and Logic Synthesis with Synopsys, by Weng Fook Lee ==> [Link](https://drive.google.com/drive/folders/1d6wZZ-LTrwyT5v4_rURIRqI0bNKO9V24)
    
 
 
