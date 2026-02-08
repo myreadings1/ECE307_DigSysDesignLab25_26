@@ -75,7 +75,7 @@ A student should register online with the following website to run HDL code [Web
    - On the exam paper, make sure to include: (a) Your name in Arabic, (b) Title (like Quiz1, Quiz2), and (c) Exam date.
    - Sample questions: 
    - Retaking exam is possible. However, students have to inform the instructor beforehand.
-- Quiz1: Date (TBA):
+- Quiz1: Date (Feb 15th, 2026):
    - Covers all material up to this date.
 - Quiz2: Date (TBA):
    - Covers all material up to this date.
