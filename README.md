@@ -66,8 +66,13 @@ A student should register online with the following website to run HDL code [Web
     - Notes: (a) You can find useful materials about this topic Chapter 8 - Reference 1. (b) Google offers one of best applications for slides (online).
 
   
-- HW2: Due on (TBA)
-   
+- HW2: Due on (Feb 14th, 2026)
+     - (1) Ref4-Example 2.1: Add a multiplexer to the circuit in order to select which component to present on the output. A student should show the schematic and VHDL code, simulation, and any related docs.
+     - (2) Ref4-Example 3.4: Unsigned/Signed Multiplier. Modify this circuit by adding an adder to the multiplier. Also you add a multiplexer at the output of the circuit to select between adder and multiplexer. A student should show  the schematic and VHDL code, simulation, and any related docs.
+     - (3) Design a 2-bit full-adder using 2x1 multiplexers. Feel free to use any number of these multiplexers. A student should show the schematic and VHDL code, simulation, and any related docs.
+
+
+  
 
 
 ### Exams
