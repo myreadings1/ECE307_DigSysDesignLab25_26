@@ -56,13 +56,13 @@ A student should register online with the following website to run HDL code [Web
 - General homework submission policy (for ALL Homeworks):
    - You may submit your homework to the instructor (Email).
    - To submit your homework, make sure to include: (a) Your name in Arabic, (b) Title (like: HW1, HW2 ), (c) Submission date, and (d) files that show your work. If you are required to submit a VHDL code, then you should submit a text file showing your code.
+   - Register your own online account with (https://www.edaplayground.com).
+   - For HDL code, you have to submit simulations results (the output of the circuit). 
    - Late homework submissions (48 Hours) will receive a maximum grade of 50 out of 100. Late homework submissions (more than 48 Hours) will receive a maximum grade of 25 out of 100..
 
 - HW1: (Due on: Feb 7th, 2026)
-    - Prepare a presentation (and discussion) about Register-Transfer Level Design (Chapter 2 - Reference 2). 
-    - Register your own online account with (https://www.edaplayground.com).
+    - Prepare a presentation (and discussion) about Register-Transfer Level Design (Chapter 2 - Reference 2).    
     - Run and implement the code mentioned in Chapter 2 - Reference 2 online and shared the simulation results (as a text file).
-    - For HDL code, you have to submit a snapshot for the output of the circuit. 
     - Notes: (a) You can find useful materials about this topic Chapter 8 - Reference 1. (b) Google offers one of best applications for slides (online).
 
   
