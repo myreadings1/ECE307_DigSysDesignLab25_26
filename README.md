@@ -6,7 +6,7 @@ This webpage is dedicated for the second year students of ECE307 Digital System 
 ### Class Instructors
 - Wahhab R. Mousa (Email: wahhab.albazrqa@uokufa.edu.iq)
 - Ahmed Yaseen (Email: ahmed.yassen@uokufa.edu.iq)
-- Istabrak M. Salim
+- Istabraq M. Salim
 
 ### Grading Policy 
 Here is a temporary grading policy:
