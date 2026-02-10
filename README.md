@@ -58,7 +58,7 @@ A student should register online with the following website:
 - General homework submission policy (for ALL Homeworks):
    - You may submit your homework to the instructor (Email).
    - To submit your homework, make sure to include: (a) Your name in Arabic, (b) Title (like: HW1, HW2 ), (c) Submission date, and (d) files that show your work. If you are required to submit a VHDL code, then you should submit a text file showing your code.
-   - Register your own online account with (https://www.edaplayground.com).
+   - Register your own online account with the EDA Playground website.
    - For HDL code, you have to submit simulations results (the output of the circuit). 
    - Late homework submissions (48 Hours) will receive a maximum grade of 50 out of 100. Late homework submissions (more than 48 Hours) will receive a maximum grade of 25 out of 100..
 
