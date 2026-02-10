@@ -49,7 +49,8 @@ A student should register online with the following website to run HDL code [Web
    - Digital Design with VHDL [PDF Slides](https://drive.google.com/file/d/1lAo07P37E1CP4HXKwlRXxQW5-PMQ2uac/view?usp=drive_link)
    
 
-- Lab2 (Date: TBA):
+- Lab2 (Date: Feb 12th, 2026):
+   - Laboratory Exercise 1: Switches, Lights, and Multiplexers [PDF Slides](https://drive.google.com/file/d/1p5HvycWHjHTrsvR1TzDleQQupqgHZNA5/view?usp=drive_link)
 
 
 ### Homeworks
