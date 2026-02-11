@@ -85,6 +85,7 @@ A student should register online with the following website:
    - Retaking exam is possible. However, students have to inform the instructor beforehand.
 - Quiz1: Date (Feb 15th, 2026):
    - Covers all material up to this date.
+   - Samples of exam questions are available under the following link ==> [Website Link](https://github.com/myreadings1/ECE307_DigSysDesignLab25_26/blob/main/SampleQuestions.md)
 - Quiz2: Date (TBA):
    - Covers all material up to this date.
 - Midterm Exam (TBA) 
