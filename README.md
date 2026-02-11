@@ -106,8 +106,7 @@ One of the course requirements is the mini project. Students are required to wor
 
 
 ### General Examples on HDL Code 
-- Nice Yourube about How to run VHDL EDA playgorund [Youtube Link](https://www.youtube.com/playlist?list=PLImVyNW4tH6UNTR16f34lqxvnO-1zgbf4)
-- 
+- Yourube videos about How to run VHDL EDA playgorund [Youtube Link](https://www.youtube.com/playlist?list=PLImVyNW4tH6UNTR16f34lqxvnO-1zgbf4)
 
 ### General Articles (مقالات عامة)
 - How Are Microchips Made? ==> [Youtube Link](https://www.youtube.com/watch?v=g8Qav3vIv9s&t=138s)
