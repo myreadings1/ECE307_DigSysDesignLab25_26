@@ -73,7 +73,7 @@ A student should register online with the following website:
      - (1) Ref4-Example 2.1: Add a multiplexer to the circuit in order to select which component to present on the output. A student should show the schematic and VHDL code, simulation, and any related docs.
      - (2) Ref4-Example 3.4: Unsigned/Signed Multiplier. Modify this circuit by adding an adder to the multiplier. Also you add a multiplexer at the output of the circuit to select between adder and multiplexer. A student should show  the schematic and VHDL code, simulation, and any related docs.
      - (3) Design a 2-bit full-adder using 2x1 multiplexers. Feel free to use any number of these multiplexers. A student should show the schematic and VHDL code, simulation, and any related docs.
-     - Design of 2-bits adder. This design (truth table) can be implemneted directly on VHDL. ==> [Weblink](https://web2.qatar.cmu.edu/cs/15348/labs/02/lab02.pdf)
+     - Design of 2-bit adder. This design (truth table) can be implemneted directly on VHDL. ==> [Weblink](https://web2.qatar.cmu.edu/cs/15348/labs/02/lab02.pdf)
 
 
   
