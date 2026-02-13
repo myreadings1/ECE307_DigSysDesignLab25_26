@@ -52,6 +52,7 @@ A student should register online with the following website:
 
 - Lab2 (Date: Feb 12th, 2026):
    - Laboratory Exercise 1: Switches, Lights, and Multiplexers [PDF Slides](https://drive.google.com/file/d/1p5HvycWHjHTrsvR1TzDleQQupqgHZNA5/view?usp=drive_link)
+   - Website from Mr. Ahmed Yaseen ==> [Weblink](https://padlet.com/Mjhool/lab-of-digital-system-design-obfh00p6sevr4lbe)
 
 
 ### Homeworks
