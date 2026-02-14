@@ -108,8 +108,10 @@ One of the course requirements is the mini project. Students are required to wor
 - General Questions [Website Link](https://github.com/myreadings1/ECE307_DigSysDesignLab25_26/blob/main/SampleQuestions.md)
 
 
-### General Examples on HDL Code 
-- Yourube videos about How to run VHDL EDA playgorund [Youtube Link](https://www.youtube.com/playlist?list=PLImVyNW4tH6UNTR16f34lqxvnO-1zgbf4)
+### Run VHDL Online on EDA Playground
+- Introduction [Video 1](https://www.youtube.com/watch?v=Yh5b0CCvuIQ&list=PLJJVguXjjZfhtS-0SsgGyIEv4baEMBv0w&index=18)
+- Introduction [Video 2](https://www.youtube.com/watch?v=gHv3gPKxwho&list=PLJJVguXjjZfhtS-0SsgGyIEv4baEMBv0w&index=18)
+
 
 ### General Articles (مقالات عامة)
 - How Are Microchips Made? ==> [Youtube Link](https://www.youtube.com/watch?v=g8Qav3vIv9s&t=138s)
