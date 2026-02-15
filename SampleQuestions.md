@@ -13,5 +13,5 @@
 ### Questions: Seq. Logic Circuits
 - (1) Design a four-bit shift register with parallel load using D flip-flops. There are two control inputs: shift and load; we refer to them as: S and L. When SL = 10, the content of the register is shifted by one position to the left. The content is shifted to the right when SL=11. New data is loaded into the register when SL = 01. The content of the register does not change when SL = 00. Provide VHDL code for your design.
 
-### Solutions to selected question from Ref1
-- Q.4.35: Implement a full adder with two 4 * 1 multiplexers ==> [Youtube Link](https://www.youtube.com/watch?v=aHgM51UaFmc)
+### Solutions to Selected Questions from Ref1
+- Q. 4.35: Implement a full adder with two 4 by 1 multiplexers [Youtube link](https://www.youtube.com/watch?v=aHgM51UaFmc)
