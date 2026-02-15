@@ -69,7 +69,7 @@ A student should register online with the following website:
     - Notes: (a) You can find useful materials about this topic Chapter 8 - Reference 1. (b) Google offers one of best applications for slides (online).
 
   
-- HW2: Due on (Feb 14th, 2026)
+- HW2: Due on (Feb 16th, 2026)
      - (1) Ref4-Example 2.1: Add a multiplexer to the circuit in order to select which component to present on the output. A student should show the schematic and VHDL code, simulation, and any related docs.
      - (2) Ref4-Example 3.4: Unsigned/Signed Multiplier. Modify this circuit by adding an adder to the multiplier. Also you add a multiplexer at the output of the circuit to select between adder and multiplexer. A student should show  the schematic and VHDL code, simulation, and any related docs.
      - (3) Design a 2-bit full-adder using 2x1 multiplexers. Feel free to use any number of these multiplexers. A student should show a truth table and VHDL code, simulation, and any related docs.
@@ -85,7 +85,7 @@ A student should register online with the following website:
    - On the exam paper, make sure to include: (a) Your name in Arabic, (b) Title (like Quiz1, Quiz2), and (c) Exam date.
    - Sample questions: 
    - Retaking exam is possible. However, students have to inform the instructor beforehand.
-- Quiz1: Date (Feb 15th, 2026):
+- Quiz1: Date (Feb 22th, 2026):
    - Covers all material up to this date.
    - Samples of exam questions are available under the following link ==> [Website Link](https://github.com/myreadings1/ECE307_DigSysDesignLab25_26/blob/main/SampleQuestions.md)
 - Quiz2: Date (TBA):
