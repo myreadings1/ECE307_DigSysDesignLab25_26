@@ -117,6 +117,8 @@ One of the course requirements is the mini project. Students are required to wor
 
 
 ### General Articles (مقالات عامة)
+- What is a Code Wiki? [Web link](https://codewiki.google/)
+   - A Code Wiki is an AI-powered documentation hub for a code repository. It’s designed to help developers quickly understand a new codebase, which accelerates onboarding and allows them to contribute faster. An advanced AI agent analyzes the source code to generate natural language summaries, architectural diagrams, and other key insights. This content also powers a conversational chat experience, enabling you to ask specific questions about the repository. For clearer information, this is a simpler explanation
 - How Are Microchips Made? ==> [Youtube Link](https://www.youtube.com/watch?v=g8Qav3vIv9s&t=138s)
 - Useful materials about FPGA on Chapter 7 - Ref 1.
 - Introduction about FPGA [PDF Slides](https://drive.google.com/file/d/1jXgGj1KmcdqJAbzNDbOp6iOTxarL_fZC/view?usp=drive_link)
