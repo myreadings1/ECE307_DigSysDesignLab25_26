@@ -47,12 +47,15 @@ A student should register online with the following website:
     
 
 - Lecture2: (Date: Feb 8th, 2026)
-   - Digital Design with VHDL [PDF Slides](https://drive.google.com/file/d/1lAo07P37E1CP4HXKwlRXxQW5-PMQ2uac/view?usp=drive_link)
+   - Digital Design with VHDL [PDF Slides](https://drive.google.com/file/d/10vH0-bPIcl94tfTIHimKRTmqukklDvRw/view?usp=drive_link)
    
 
 - Lab2 (Date: Feb 12th, 2026):
    - Laboratory Exercise 1: Switches, Lights, and Multiplexers [PDF Slides](https://drive.google.com/file/d/1p5HvycWHjHTrsvR1TzDleQQupqgHZNA5/view?usp=drive_link)
    - Website from Mr. Ahmed Yaseen ==> [Weblink](https://padlet.com/Mjhool/lab-of-digital-system-design-obfh00p6sevr4lbe)
+
+- Lecture3: (Date: Feb 15th, 2026)
+  - Hierarchical Design with VHDL [PDF Slides](https://drive.google.com/file/d/1vc6HaRO8RsLycvOqzc0C6BibjTMwdRfK/view?usp=drive_link)
 
 
 ### Homeworks
