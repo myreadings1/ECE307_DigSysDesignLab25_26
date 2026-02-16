@@ -57,6 +57,9 @@ A student should register online with the following website:
 - Lecture3: (Date: Feb 15th, 2026)
   - Hierarchical Design with VHDL [PDF Slides](https://drive.google.com/file/d/1vc6HaRO8RsLycvOqzc0C6BibjTMwdRfK/view?usp=drive_link)
 
+- Lab3 (Date: Feb 19th, 2026)
+  - Homework for Lab 19-2-2026 => Dear Students, For the upcoming lab session, you are required to complete the following tasks: (1) Prepare a brief comparison (one page only) explaining why advanced Raspberry Pi is not used instead of FPGA in our lab? Implement the (Part1) of Tutorial 1 on the board during the first 10 minutes of the lab. (2) Solve the (Part2) on the given lab-sheet and implement it on the board within the lab time. Notes: (1) Instructions for the specific required part will be given quickly during the session. (2) Students are expected to be well prepared in advance to complete the experiment in the lab due to limited time. (3) You can use EDA Playground to practice vhdl code (https://www.edaplayground.com/)
+
 
 ### Homeworks
 - General homework submission policy (for ALL Homeworks):
