@@ -18,7 +18,13 @@ Here is a temporary grading policy:
 - Midterm Exam: 10 Points
 - Final Exam: 40 Points
 - Final Lab Exam: 10 Points
-- The total is: 100 Points 
+- The total is: 100 Points
+
+### Lab Grading Policy
+- VHDL Code – 20 points
+- RTL Design – 20 points
+- Implementation – 30 points
+- Discussion – 30 points
 
 ### References
 - (1) Digital Design With an Introduction to the Verilog HDL, 5th Edition, by M. Morris Mano, and Michael D. Ciletti ==> [PDF File](https://drive.google.com/file/d/1SPY81cQZhXOsGN09_fuG15QfuJIaw2fg/view?usp=drive_link)
@@ -63,9 +69,9 @@ A student should register online with the following website:
 - Lecture4: (Date: Feb 22th, 2026)
   - Digital Design with HDL: Sequential Statements [PDF Slides]
 - Lab4 (Date: Feb 26th, 2026)
-  - [PDF Slides]
-
-
+  - 📣 Dear Students: For the upcoming Lab Session on Feb 26th, 2026, you are required to work on Tutorial 1 (Parts 3 and 4). You are required to prepare a fully functional VHDL code, which can be implemented directly on the board. The time lab session is a time limited therefore you are required to be prepared before the lab date. Your lab assessment will be based on the Lab Grading Policy (as stated above).
+ - 🚫 Restriction during lab session: Conditional statements are not allowed in your code for this tutorial. Specifically, you cannot not use: when/else, with/select/when, case/when.
+ - ✅ Prepare carefully, work smartly, and be ready to demonstrate your design during the lab.
 
 
 ### Homeworks
