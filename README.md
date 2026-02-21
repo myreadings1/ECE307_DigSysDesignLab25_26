@@ -59,7 +59,7 @@ A student should register online with the following website:
 
 - Lab3 (Date: Feb 19th, 2026)
   - Homework for Lab 19-2-2026 => Dear Students, For the upcoming lab session, you are required to complete the following tasks: (1) Prepare a brief comparison (one page only) explaining why advanced Raspberry Pi is not used instead of FPGA in our lab? (2) Implement the (Part1) of Tutorial 1 on the board during the first 10 minutes of the lab. (3) Solve the (Part2) on the given lab-sheet and implement it on the board within the lab time. Notes: (1) Instructions for the specific required part will be given quickly during the session. (2) Students are expected to be well prepared in advance to complete the experiment in the lab due to limited time. (3) You can use EDA Playground to practice vhdl code (https://www.edaplayground.com/).
-  - Laboratory Exercise 1: Switches, Lights, and Multiplexers [PDF Slides](https://drive.google.com/file/d/1p5HvycWHjHTrsvR1TzDleQQupqgHZNA5/view?usp=drive_link)
+  - Laboratory Exercise 1 (Part II, III, IV): Switches, Lights, and Multiplexers [PDF Slides](https://drive.google.com/file/d/1p5HvycWHjHTrsvR1TzDleQQupqgHZNA5/view?usp=drive_link)
 
 
 ### Homeworks
