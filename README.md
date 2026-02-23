@@ -113,11 +113,11 @@ A student should register online with the following website:
    - Covers all material up to this date.
 - Midterm Exam (TBA) 
 
-- Quiz3: Date (TBA):
+- Quiz4: Date (TBA):
      
-- Quiz4 (TBA)
+- Quiz5: Date (TBA):
 
-- Quiz5 (TBA)
+- Quiz6: Date (TBA):
 
 
 ### Mini Project
