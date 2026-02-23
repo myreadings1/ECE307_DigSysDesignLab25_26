@@ -1,4 +1,6 @@
 ### Questions: Comb. Logic Circuits
+- Mux4x1 [PDF File](https://drive.google.com/file/d/1eDHbUN70cNtTQZg9AsTi0VtXfj2vEQYp/view?usp=drive_link)
+
 - (1) Ref1: Provide a solution and VHDL code for the following problems of chapter4: (4.6, 4.7, 4.10, 4.11, 4.20, 4.21, 4.25, 4.26, 4.27, 4.28, 4.31, 4.32, 4.33, 4.34, 4.35).
 - (2) Ref4: Provide a solution and simulation results for the following examples of chapter2 and chapter3:
    - Page 20 ==> Example 2.1
@@ -8,6 +10,7 @@
    - Page 52 ==> Example 3.3
    - Page 54 ==> Example 3.4
 - (3) Reading article: Page 24 Section 2.8 Coding Guidelines
+
 
 
 ### Questions: Seq. Logic Circuits
