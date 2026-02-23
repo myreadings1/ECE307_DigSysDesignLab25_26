@@ -5,7 +5,8 @@
 - Exercise: Comb Logic [PDF File](https://drive.google.com/file/d/1iuhiNHP-iNkTRVt97OPFv11WTZOIq1_t/view?usp=drive_link)
 
 ### Questions: Seq. Logic Circuits
-- Example1: DFF [PDF File](https://drive.google.com/file/d/1dw38HmzyglyU54uRbq86kWvM8aizdf6U/view?usp=drive_link)
+- Example1: DFF [PDF File](https:1//drive.google.com/file/d/1dw38HmzyglyU54uRbq86kWvM8aizdf6U/view?usp=drive_link)
+- Example2: Counter [PDF File](https://drive.google.com/file/d/1eI3pjnckhYkNyVFUQ7_HFQhcnm1ppvTo/view?usp=drive_link)
 
 ### Questions
 - (1) Ref1: Provide a solution and VHDL code for the following problems of chapter4: (4.6, 4.7, 4.10, 4.11, 4.20, 4.21, 4.25, 4.26, 4.27, 4.28, 4.31, 4.32, 4.33, 4.34, 4.35).
