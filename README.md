@@ -104,9 +104,9 @@ A student should register online with the following website:
    - On the exam paper, make sure to include: (a) Your name in Arabic, (b) Title (like Quiz1, Quiz2), and (c) Exam date.
    - Sample questions: 
    - Retaking exam is possible. However, students have to inform the instructor beforehand.
+   - Samples of exam questions are available under the following link ==> [Website Link](https://github.com/myreadings1/ECE307_DigSysDesignLab25_26/blob/main/SampleQuestions.md)
 - Quiz1: Date (Feb 15th, 2026):
    - Covers all material up to this date.
-   - Samples of exam questions are available under the following link ==> [Website Link](https://github.com/myreadings1/ECE307_DigSysDesignLab25_26/blob/main/SampleQuestions.md)
 - Quiz2: Date (Feb 22th, 2026):
    - Covers all material up to this date.
 - Quiz3: Date (Feb 29th, 2026):
