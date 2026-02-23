@@ -9,6 +9,7 @@
 - Example2: Counter [PDF File](https://drive.google.com/file/d/1FGou93qodQKcbldc8u-5MTyyq71wvLYa/view?usp=drive_link)
 - Example3: Shift Reg [PDF File](https://drive.google.com/file/d/1dhVgW4zxYQ24csvCpvR6IRLcCnqkX_sT/view?usp=drive_link)
 - Exercise1: Latch and FF [PDF File](https://drive.google.com/file/d/1JQtEtw6xMaLYRIWlLo3dyBitPVVqaDhi/view?usp=drive_link)
+- Exercise2:Reg and Mux [PDF File](https://drive.google.com/file/d/1TtNPC-oXDVDmR2AHtVD-tCuat1n-BKRb/view?usp=drive_link)
 
 ### Questions
 - (1) Ref1: Provide a solution and VHDL code for the following problems of chapter4: (4.6, 4.7, 4.10, 4.11, 4.20, 4.21, 4.25, 4.26, 4.27, 4.28, 4.31, 4.32, 4.33, 4.34, 4.35).
