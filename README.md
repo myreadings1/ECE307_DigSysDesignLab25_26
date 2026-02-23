@@ -39,6 +39,7 @@ Here is a temporary grading policy:
 A student should register online with the following website:
 - EDA Playground: EDA Playground lets you type in and run HDL code [Website]==> (https://www.edaplayground.com/)
 - Note: a student needs to register with his email address (like: xxx@uokufa.edu.iq)
+- VHDL/Verilog interactive simulator [Website](https://tapec.uv.es/pardo/hdlsim/)
 
 
 
