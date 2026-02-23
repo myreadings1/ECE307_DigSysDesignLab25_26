@@ -2,6 +2,7 @@
 - Example1: Mux4x1 [PDF File](https://drive.google.com/file/d/1eDHbUN70cNtTQZg9AsTi0VtXfj2vEQYp/view?usp=drive_link)
 - Example2: Mux4x1 [PDF File](https://drive.google.com/file/d/1Mn8ZjSbPPBnVj3llrQUXRvU8-2HXSCLk/view?usp=drive_link)
 - Example3: ALU Logic [PDF File](https://drive.google.com/file/d/1X9fmWPJAbxOhEvKeV12Wj1UdI6LcYxq6/view?usp=drive_link)
+- Exercise: Comb Logic [PDF File](https://drive.google.com/file/d/1iuhiNHP-iNkTRVt97OPFv11WTZOIq1_t/view?usp=drive_link)
 
 - (1) Ref1: Provide a solution and VHDL code for the following problems of chapter4: (4.6, 4.7, 4.10, 4.11, 4.20, 4.21, 4.25, 4.26, 4.27, 4.28, 4.31, 4.32, 4.33, 4.34, 4.35).
 - (2) Ref4: Provide a solution and simulation results for the following examples of chapter2 and chapter3:
