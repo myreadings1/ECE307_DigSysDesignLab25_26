@@ -5,6 +5,7 @@
 - Example4: Parity Checker [PDF File](https://drive.google.com/file/d/1bv-YLrQ4DXYWn0nZbS4FoQEIG0tNwwDG/view?usp=drive_link)
 - Example5: Design 4x1 Mux using 2x1 Mux [PDF File](https://drive.google.com/file/d/1nTMeXV_C6tQACKfIZ3O4_-jxPT24qkx-/view?usp=drive_link)
 - Example6: How to Use Component [PDF File](https://drive.google.com/file/d/1SXQVCOsLiSM50lA5-Z8nkqUNs7Q60SxW/view?usp=drive_link)
+- Example7: VHDL Code For Decoder [PDF File](https://drive.google.com/file/d/1FfdKTtIRzXLZjWtNiyhaUs9yzKVv07vd/view?usp=drive_link)
 - Exercise1: Comb Logic [PDF File](https://drive.google.com/file/d/1iuhiNHP-iNkTRVt97OPFv11WTZOIq1_t/view?usp=drive_link)
 
 ### Questions: Seq. Logic Circuits
