@@ -3,6 +3,7 @@
 - Example2: Mux4x1 [PDF File](https://drive.google.com/file/d/1Mn8ZjSbPPBnVj3llrQUXRvU8-2HXSCLk/view?usp=drive_link)
 - Example3: ALU Logic [PDF File](https://drive.google.com/file/d/1X9fmWPJAbxOhEvKeV12Wj1UdI6LcYxq6/view?usp=drive_link)
 - Example4: Parity Checker [PDF File](https://drive.google.com/file/d/1bv-YLrQ4DXYWn0nZbS4FoQEIG0tNwwDG/view?usp=drive_link)
+- Example5: Design 4x1 Mux using 2x1 Mux [PDF File](https://drive.google.com/file/d/1nTMeXV_C6tQACKfIZ3O4_-jxPT24qkx-/view?usp=drive_link)
 - Exercise1: Comb Logic [PDF File](https://drive.google.com/file/d/1iuhiNHP-iNkTRVt97OPFv11WTZOIq1_t/view?usp=drive_link)
 
 ### Questions: Seq. Logic Circuits
