@@ -7,6 +7,7 @@
 - Example6: How to Use Component [PDF File](https://drive.google.com/file/d/1SXQVCOsLiSM50lA5-Z8nkqUNs7Q60SxW/view?usp=drive_link)
 - Example7: VHDL Code For Decoder [PDF File](https://drive.google.com/file/d/1FfdKTtIRzXLZjWtNiyhaUs9yzKVv07vd/view?usp=drive_link)
 - Example8: VHDL Code For Decoder [PDF File](https://drive.google.com/file/d/1vXzc9IoAhxBz5cWzM53NFDaKT_vM6iCN/view?usp=drive_link)
+- Example9: VHDL Code For 4-bit Full Adder [PDF File](https://drive.google.com/file/d/172Dk3szai3ZXl6prunrf3qEPcSGEMW2V/view?usp=drive_link)
 - Exercise1: Comb Logic [PDF File](https://drive.google.com/file/d/1iuhiNHP-iNkTRVt97OPFv11WTZOIq1_t/view?usp=drive_link)
 
 ### Questions: Seq. Logic Circuits
