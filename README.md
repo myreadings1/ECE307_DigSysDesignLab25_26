@@ -113,7 +113,7 @@ A student should register online with the following website:
    - Covers all material up to this date.
 - Quiz2: Date (Feb 22th, 2026):
    - Covers all material up to this date.
-- Quiz3: Date (Feb 29th, 2026):
+- Quiz3: Date (Mar 1st, 2026):
    - Covers all material up to this date.
 - Midterm Exam (TBA) 
 
