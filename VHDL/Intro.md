@@ -10,6 +10,8 @@ VHDL Introduction
 
 ```
 Example1: Complete VHDL design for the function F1 = (A'.B.C') + (B'.C) + (A'.B)
+```
+```
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 entity comb1 is port (
