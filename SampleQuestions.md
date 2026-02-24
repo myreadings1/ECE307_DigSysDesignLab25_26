@@ -1,10 +1,15 @@
-### Solutions For Exercises Ref1
-- 4.11 Page 183-Ref1
+### Solutions For Problems Chapter4-Ref1
+- 4.11: 
     - Arabic Lang. [Youtube Link](https://www.youtube.com/watch?v=hQiV4JVzKok)
     - English Lang. [Youtube Link](https://www.youtube.com/watch?v=Xz8Ap24bK8c)
-- 4.25 Ref1: Solution => English Lang [Youtube Link](https://www.youtube.com/watch?v=Qcnmb7XuA8Y)
-- 4.26 Ref1: Solution => English Lang [Youtube Link](https://www.youtube.com/watch?v=7YKzWKjXyn0)
-- 4.27 Ref1: Solution => English Lang [Youtube Link](https://www.youtube.com/watch?v=RbLX2EB1VvI)
+- 4.25: Solution => [Youtube Link](https://www.youtube.com/watch?v=Qcnmb7XuA8Y)
+- 4.26: Solution => [Youtube Link](https://www.youtube.com/watch?v=7YKzWKjXyn0)
+- 4.27: Solution => [Youtube Link](https://www.youtube.com/watch?v=RbLX2EB1VvI)
+- 4.28: Solution => [Youtube Link](https://www.youtube.com/watch?v=uzjEkICUas0&list=PLI0y8_sKQPD991sipHcqWNOJ0nmCnqPSw&index=127)
+- 4.31: Solution => [Youtube Link](https://www.youtube.com/watch?v=1DKEaWzoUJU&list=PLI0y8_sKQPD991sipHcqWNOJ0nmCnqPSw&index=132)
+- 4.32: Solution => [Youtube Link](https://www.youtube.com/watch?v=BsrL_c1t9wY&list=PLI0y8_sKQPD991sipHcqWNOJ0nmCnqPSw&index=133)
+- 4.33: Solution => [Youtube Link](https://www.youtube.com/watch?v=aHgM51UaFmc&list=PLI0y8_sKQPD991sipHcqWNOJ0nmCnqPSw&index=134)
+- 4.34: Solution => [Youtube Link](https://www.youtube.com/watch?v=Mvzri7Bf7gY&list=PLI0y8_sKQPD991sipHcqWNOJ0nmCnqPSw&index=135)
 - 
 ### Questions: Comb. Logic Circuits
 - Example1: Mux4x1 [PDF File](https://drive.google.com/file/d/1eDHbUN70cNtTQZg9AsTi0VtXfj2vEQYp/view?usp=drive_link)
