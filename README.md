@@ -32,6 +32,7 @@ Here is a temporary grading policy:
 - (3) The Designer's Guide to VHDL, 3rd Edition (Systems on Silicon), by Peter J. Ashenden  [Download PDF](https://drive.google.com/file/d/1a_RjoF3yabyzO4bksdhGoVfHmQz6OFvj/view?usp=drive_link)
 - (4) Circuit Design and Simulation with VHDL, Second edition, Volnei A. Pedroni [Link](https://drive.google.com/file/d/1PC2VUzPonmYPslNSovTmmp2mPv8UF6RO/view?usp=sharing)
 - (5) VHDL Coding and Logic Synthesis with Synopsys, by Weng Fook Lee ==> [Link](https://drive.google.com/drive/folders/1d6wZZ-LTrwyT5v4_rURIRqI0bNKO9V24)
+- (6) Fundamentals of Digital and Computer Design with VHDL, by Richard S. Sandige [Link](https://drive.google.com/file/d/1oQT-pO3UgK_zMl5XZRppqXkd5WuaF0B2/view?usp=drive_link)
    
 
 
