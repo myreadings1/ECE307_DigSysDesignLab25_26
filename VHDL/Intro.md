@@ -32,10 +32,10 @@ Shows a complete VHDL design for the 2-to-4 decoder
 Here's our logo (hover to see the title text):
 
 Inline-style: 
-![alt text](https://drive.google.com/file/d/1iDV4nt33293GPB9vM2l36aomciO1bLVR/view?usp=drive_link "Logo Title Text 1")
+![alt text](https://drive.google.com/file/d/1iDV4nt33293GPB9vM2l36aomciO1bLVR/view?usp=drive_link)
 
 ![LLL][logo]
-[logo]: https://drive.google.com/file/d/1gRVcC8uKoDCX1_M1RI23xlZHtzq9_A7_/view?usp=drive_link "Logo Title Text 2"
+[logo]: https://drive.google.com/file/d/1gRVcC8uKoDCX1_M1RI23xlZHtzq9_A7_/view?usp=drive_link
 ```
 ```
 library IEEE;
