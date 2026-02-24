@@ -1,4 +1,4 @@
-<img width="806" height="409" alt="image" src="https://github.com/user-attachments/assets/1cb18ec0-c874-4c25-b348-a1cff25869f3" /><img width="806" height="409" alt="image" src="https://github.com/user-attachments/assets/1cb18ec0-c874-4c25-b348-a1cff25869f3" />VHDL Introduction
+VHDL Introduction
 
 #### Table of Contents  
 [Headers](#headers)  
