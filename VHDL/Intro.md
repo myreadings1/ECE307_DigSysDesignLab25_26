@@ -36,6 +36,8 @@ Inline-style:
 
 ![LLL][logo]
 [logo]: https://drive.google.com/file/d/1gRVcC8uKoDCX1_M1RI23xlZHtzq9_A7_/view?usp=drive_link
+
+<img src="https://drive.google.com/file/d/1gRVcC8uKoDCX1_M1RI23xlZHtzq9_A7_/view?usp=drive_link" alt="Alt Text" width="300" height="200">
 ```
 ```
 library IEEE;
