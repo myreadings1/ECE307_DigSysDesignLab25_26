@@ -1,3 +1,10 @@
+### Solutions For Exercises Ref1
+- 4.11 Page 183-Ref1
+    - Arabic Lang. [Youtube Link](https://www.youtube.com/watch?v=hQiV4JVzKok)
+    - English Lang. [Youtube Link](https://www.youtube.com/watch?v=Xz8Ap24bK8c)
+- 4.25 Ref1
+    - English Lang [Youtube Link](https://www.youtube.com/watch?v=Qcnmb7XuA8Y)
+- 
 ### Questions: Comb. Logic Circuits
 - Example1: Mux4x1 [PDF File](https://drive.google.com/file/d/1eDHbUN70cNtTQZg9AsTi0VtXfj2vEQYp/view?usp=drive_link)
 - Example2: Mux4x1 [PDF File](https://drive.google.com/file/d/1Mn8ZjSbPPBnVj3llrQUXRvU8-2HXSCLk/view?usp=drive_link)
