@@ -74,7 +74,7 @@ A student should register online with the following website:
   - 📣 Dear Students: For the upcoming Lab Session on Feb 26th, 2026, you are required to work on Tutorial 1 (Parts 3 and 4). You are required to prepare a fully functional VHDL code, which can be implemented directly on the board. The time lab session is a time limited therefore you are required to be prepared before the lab date. Your lab assessment will be based on the Lab Grading Policy (as stated above).
   - 🚫 Restriction during lab session: Conditional statements are not allowed in your code for this tutorial. Specifically, you cannot not use: when/else, with/select/when, case/when.
   - ✅ Prepare carefully, work smartly, and be ready to demonstrate your design during the lab.
-- Lecture5: (Date: Feb 29th, 2026)
+- Lecture5: (Date: Mar 1st, 2026)
   - Ref6 - Chapter4
 
 
