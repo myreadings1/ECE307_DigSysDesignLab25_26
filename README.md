@@ -75,7 +75,7 @@ A student should register online with the following website:
   - 🚫 Restriction during lab session: Conditional statements are not allowed in your code for this tutorial. Specifically, you cannot not use: when/else, with/select/when, case/when.
   - ✅ Prepare carefully, work smartly, and be ready to demonstrate your design during the lab.
 - Lecture5: (Date: Mar 1st, 2026)
-  - Ref6 - Chapter4
+  - Chapter4 from Reference6..
 
 
 ### Homeworks
