@@ -76,7 +76,8 @@ A student should register online with the following website:
   - 🚫 Restriction during lab session: Conditional statements are not allowed in your code for this tutorial. Specifically, you cannot not use: when/else, with/select/when, case/when.
   - ✅ Prepare carefully, work smartly, and be ready to demonstrate your design during the lab.
 - Lecture5: (Date: Mar 1st, 2026)
-  - Chapter4 from Reference6 above..
+  - Reading: Chapter4 from Reference6 above..
+  - VHDL-Architecture Design Style [PDF Slides](https://drive.google.com/file/d/11mwlj3hNgFk5OqKusY66_9t3lrPfr2kB/view?usp=drive_link)
 
 
 ### Homeworks
