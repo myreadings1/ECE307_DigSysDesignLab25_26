@@ -76,8 +76,12 @@ A student should register online with the following website:
   - 🚫 Restriction during lab session: Conditional statements are not allowed in your code for this tutorial. Specifically, you cannot not use: when/else, with/select/when, case/when.
   - ✅ Prepare carefully, work smartly, and be ready to demonstrate your design during the lab.
 - Lecture5: (Date: Mar 1st, 2026)
+  - National Holiday
+- Lecture6: (Date: Mar 8th, 2026)
   - Reading: Chapter4 from Reference6 above..
   - VHDL-Architecture Design Style [PDF Slides](https://drive.google.com/file/d/11mwlj3hNgFk5OqKusY66_9t3lrPfr2kB/view?usp=drive_link)
+- Lab5 (Date Feb 5th, 2026)
+  - Dear Students, In the next lab session, we will cover Exercise 1 (Parts 4 and 5). Please solve both parts in advance and bring your code to the lab so you run the code directly on the board.
 
 
 ### Homeworks
@@ -116,7 +120,9 @@ A student should register online with the following website:
 - Quiz2: Date (Feb 22th, 2026):
    - Covers all material up to this date.
 - Quiz3: Date (Mar 1st, 2026):
-   - Covers all material up to this date.
+   - National Holiday
+- Quiz4: Date (Mar 8th, 2026)
+   - Covers all material up to this date. 
 - Midterm Exam (TBA) 
 
 - Quiz4: Date (TBA):
