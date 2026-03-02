@@ -26,6 +26,9 @@ Here is a temporary grading policy:
 - Implementation – 30 points
 - Discussion – 30 points
 
+### Extra Questions
+- Solved Problems and Extra Questions ==> [Website Link](https://github.com/myreadings1/ECE307_DigSysDesignLab25_26/blob/main/SampleQuestions.md)
+
 ### References
 - (1) Digital Design With an Introduction to the Verilog HDL, 5th Edition, by M. Morris Mano, and Michael D. Ciletti ==> [PDF File](https://drive.google.com/file/d/1SPY81cQZhXOsGN09_fuG15QfuJIaw2fg/view?usp=drive_link)
 - (2) VHDL for Logic Synthesis, 3rd Edition, by Andrew Rushton  ==> [Download PDF](https://drive.google.com/file/d/1la7JDKuey_cesMylXRn50X3djWKj8Vrf/view?usp=drive_link).
@@ -123,13 +126,14 @@ A student should register online with the following website:
    - National Holiday
 - Quiz4: Date (Mar 8th, 2026)
    - Covers all material up to this date. 
-- Midterm Exam (TBA) 
+- Midterm Exam (Date: Mar 29th, 2026)
+   - Covers all material up to this date. 
 
-- Quiz4: Date (TBA):
-     
 - Quiz5: Date (TBA):
-
+     
 - Quiz6: Date (TBA):
+
+- Quiz7: Date (TBA):
 
 
 ### Mini Project
