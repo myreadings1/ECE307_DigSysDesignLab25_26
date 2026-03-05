@@ -125,14 +125,12 @@ A student should register online with the following website:
 - Quiz3: Date (Mar 1st, 2026):
    - National Holiday
 - Quiz4: Date (Mar 8th, 2026)
-   - Covers all material up to this date. 
+   - Covers all material up to this date.
+- Quiz5: Date (Mar 15th, 2026)
+   - Covers all material up to this date.
 - Midterm Exam (Date: Mar 29th, 2026)
    - Covers all material up to this date. 
-
-- Quiz5: Date (TBA):
-     
 - Quiz6: Date (TBA):
-
 - Quiz7: Date (TBA):
 
 
