@@ -26,26 +26,6 @@ Here is a temporary grading policy:
 - Implementation – 30 points
 - Discussion – 30 points
 
-### Extra Questions
-- Solved Problems and Extra Questions ==> [Website Link](https://github.com/myreadings1/ECE307_DigSysDesignLab25_26/blob/main/SampleQuestions.md)
-
-### References
-- (1) Digital Design With an Introduction to the Verilog HDL, 5th Edition, by M. Morris Mano, and Michael D. Ciletti ==> [PDF File](https://drive.google.com/file/d/1SPY81cQZhXOsGN09_fuG15QfuJIaw2fg/view?usp=drive_link)
-- (2) VHDL for Logic Synthesis, 3rd Edition, by Andrew Rushton  ==> [Download PDF](https://drive.google.com/file/d/1la7JDKuey_cesMylXRn50X3djWKj8Vrf/view?usp=drive_link).
-- (3) The Designer's Guide to VHDL, 3rd Edition (Systems on Silicon), by Peter J. Ashenden  [Download PDF](https://drive.google.com/file/d/1a_RjoF3yabyzO4bksdhGoVfHmQz6OFvj/view?usp=drive_link)
-- (4) Circuit Design and Simulation with VHDL, Second edition, Volnei A. Pedroni [Link](https://drive.google.com/file/d/1PC2VUzPonmYPslNSovTmmp2mPv8UF6RO/view?usp=sharing)
-- (5) VHDL Coding and Logic Synthesis with Synopsys, by Weng Fook Lee ==> [Link](https://drive.google.com/drive/folders/1d6wZZ-LTrwyT5v4_rURIRqI0bNKO9V24)
-- (6) Fundamentals of Digital and Computer Design with VHDL, by Richard S. Sandige [Link](https://drive.google.com/file/d/1oQT-pO3UgK_zMl5XZRppqXkd5WuaF0B2/view?usp=drive_link)
-   
-
-
-### Run HDL Code Online
-A student should register online with the following website:
-- EDA Playground: EDA Playground lets you type in and run HDL code [Website]==> (https://www.edaplayground.com/)
-- Note: a student needs to register with his email address (like: xxx@uokufa.edu.iq)
-- VHDL/Verilog interactive simulator [Website](https://tapec.uv.es/pardo/hdlsim/)
-
-
 
 ### Lectures
 - Lecture1: (Date: Feb 1st, 2026):
@@ -142,6 +122,18 @@ One of the course requirements is the mini project. Students are required to wor
 - List of Mini Projects
 
 
+### Extra Questions
+- Solved Problems and Extra Questions ==> [Website Link](https://github.com/myreadings1/ECE307_DigSysDesignLab25_26/blob/main/SampleQuestions.md)
+
+
+
+### Run HDL Code Online
+A student should register online with the following website:
+- EDA Playground: EDA Playground lets you type in and run HDL code [Website]==> (https://www.edaplayground.com/)
+- Note: a student needs to register with his email address (like: xxx@uokufa.edu.iq)
+- VHDL/Verilog interactive simulator [Website](https://tapec.uv.es/pardo/hdlsim/)
+
+
 ### Exercises From The Reference Textbook
 - General Questions [Website Link](https://github.com/myreadings1/ECE307_DigSysDesignLab25_26/blob/main/SampleQuestions.md)
 
@@ -149,6 +141,16 @@ One of the course requirements is the mini project. Students are required to wor
 ### Run VHDL Online on EDA Playground
 - Introduction [Video 1](https://www.youtube.com/watch?v=Yh5b0CCvuIQ&list=PLJJVguXjjZfhtS-0SsgGyIEv4baEMBv0w&index=18)
 - Introduction [Video 2](https://www.youtube.com/watch?v=gHv3gPKxwho&list=PLJJVguXjjZfhtS-0SsgGyIEv4baEMBv0w&index=18)
+
+
+### References => You don't have to read these references. They are available for general information and knowledge. 
+- (1) Digital Design With an Introduction to the Verilog HDL, 5th Edition, by M. Morris Mano, and Michael D. Ciletti ==> [PDF File](https://drive.google.com/file/d/1SPY81cQZhXOsGN09_fuG15QfuJIaw2fg/view?usp=drive_link)
+- (2) VHDL for Logic Synthesis, 3rd Edition, by Andrew Rushton  ==> [Download PDF](https://drive.google.com/file/d/1la7JDKuey_cesMylXRn50X3djWKj8Vrf/view?usp=drive_link).
+- (3) The Designer's Guide to VHDL, 3rd Edition (Systems on Silicon), by Peter J. Ashenden  [Download PDF](https://drive.google.com/file/d/1a_RjoF3yabyzO4bksdhGoVfHmQz6OFvj/view?usp=drive_link)
+- (4) Circuit Design and Simulation with VHDL, Second edition, Volnei A. Pedroni [Link](https://drive.google.com/file/d/1PC2VUzPonmYPslNSovTmmp2mPv8UF6RO/view?usp=sharing)
+- (5) VHDL Coding and Logic Synthesis with Synopsys, by Weng Fook Lee ==> [Link](https://drive.google.com/drive/folders/1d6wZZ-LTrwyT5v4_rURIRqI0bNKO9V24)
+- (6) Fundamentals of Digital and Computer Design with VHDL, by Richard S. Sandige [Link](https://drive.google.com/file/d/1oQT-pO3UgK_zMl5XZRppqXkd5WuaF0B2/view?usp=drive_link)
+   
 
 
 ### General Articles (مقالات عامة)
