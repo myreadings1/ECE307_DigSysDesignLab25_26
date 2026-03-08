@@ -67,7 +67,9 @@ Here is a temporary grading policy:
   - Reading: Chapter4 from Reference6 above..
   - VHDL-Architecture Design Style [PDF Slides](https://drive.google.com/file/d/1Zo935OCRn-d7LX8nKgJtu0DEZNlZve2n/view?usp=drive_link)
 - Lab6 (Date Mar 12th, 2026)
-   - Dear Students, For the next lab session, we will cover Exercise 1 (Parts 4 and 5). Please solve both parts in advance and bring your code to the lab so you run the code directly on the board. The lab time will be used for implementation only. 🚫Note: Conditional statements are not permitted in this tutorial. You must not use when/else, with/select/when, or case/when in your code.
+  - [PDF Slides]==> Comming soon
+- Lecture7: (Date: Mar 15th, 2026)
+  - [PDF Slides]==> Comming soon
 
 
 ### Homeworks
