@@ -61,13 +61,13 @@ Here is a temporary grading policy:
 - Lecture5: (Date: Mar 1st, 2026)
   - National Holiday
 - Lab5 (Date Mar 5th, 2026)
-   - Students did attend this Lab session. 
-   - Dear Students, For the next lab session, we will cover Exercise 1 (Parts 4 and 5). Please solve both parts in advance and bring your code to the lab so you run the code directly on the board. The lab time will be used for implementation only. 🚫Note: Conditional statements are not permitted in this tutorial. You must not use when/else, with/select/when, or case/when in your code.
+   - Students didn't attend this Lab session. 
+
 - Lecture6: (Date: Mar 8th, 2026)
   - Reading: Chapter4 from Reference6 above..
   - VHDL-Architecture Design Style [PDF Slides](https://drive.google.com/file/d/1Zo935OCRn-d7LX8nKgJtu0DEZNlZve2n/view?usp=drive_link)
 - Lab6 (Date Mar 12th, 2026)
-  
+    - Dear Students, In this lab session, we will cover Exercise 1 (Parts 4 and 5). Please solve both parts in advance and bring your code to the lab so you run the code directly on the board. The lab time will be used for implementation only. 🚫Note: Conditional statements are not permitted in this tutorial. You must not use when/else, with/select/when, or case/when in your code.
 - Lecture7: (Date: Mar 15th, 2026)
   - [PDF Slides]==> Comming soon
 - Lab7 (Date: Mar 19th, 2026)
