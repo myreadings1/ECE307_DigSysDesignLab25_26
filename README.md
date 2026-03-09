@@ -71,7 +71,7 @@ Here is a temporary grading policy:
 - Lecture7: (Date: Mar 15th, 2026)
   - [PDF Slides]==> Comming soon
 - Lab7 (Date: Mar 19th, 2026)
-   - Dear Students, In this lab session, we will work on Exercise 2 (Parts 1 and 2). Please make sure to solve both parts in advance and bring your completed code written on the answer lab sheet that was provided before. Notes: (1) The lab time will be dedicated exclusively to implementation, so preparation beforehand is essential; (2) You may also reuse the 7-segment code from Exercise 1 as a COMPONENT in solving the tasks above; (3) You must bring codes written in the lab sheet; marks will be given based on that. Best regards,
+   - Dear Students, In this lab session, we will work on Exercise 2 (Parts 1 and 2) [Link](https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/1903653751/a0d7cadde116a1100b970bc9e3c997ea/Lab_Sheet.pdf?token=3ZE4Y1f2j5JppCR5KShvDcV6EirMy0J1iDUc3f_-14a5Ijk8m_LMgQS-U6LZYs4nxVQNRtqic1MAUvIiAuLDWmQQs-LpcWPuNG7vFeG9XW4oyaiAdS3CkUN7i1iyHSK4jivoAQdi6u-Q_0mpKWaE_kq6r-iLRXkIJkMdPHTaQa2_ppQf6jVjV6VUH1XD3gKoh0Q7cQSWOwi_BsyKV8WaJnQaHE3eMcNLx4_xKmjdDlylZ1L9pnY7zioSlR-Zq_4c). Please make sure to solve both parts in advance and bring your completed code written on the answer lab sheet that was provided before. Notes: (1) The lab time will be dedicated exclusively to implementation, so preparation beforehand is essential; (2) You may also reuse the 7-segment code from Exercise 1 as a COMPONENT in solving the tasks above; (3) You must bring codes written in the lab sheet; marks will be given based on that. Best regards,
 
 
 ### Homeworks
