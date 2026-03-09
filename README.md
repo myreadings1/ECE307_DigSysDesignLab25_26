@@ -67,7 +67,7 @@ Here is a temporary grading policy:
   - Reading: Chapter4 from Reference6 above..
   - VHDL-Architecture Design Style [PDF Slides](https://drive.google.com/file/d/1Zo935OCRn-d7LX8nKgJtu0DEZNlZve2n/view?usp=drive_link)
 - Lab6 (Date Mar 12th, 2026)
-  - [PDF Slides]==> Comming soon
+  - Dear Students, In this lab session, we will work on Exercise 2 (Parts 1 and 2). Please make sure to solve both parts in advance and bring your completed code written on the answer lab sheet that was provided before. Notes: (1) The lab time will be dedicated exclusively to implementation, so preparation beforehand is essential; (2) You may also reuse the 7-segment code from Exercise 1 as a COMPONENT in solving the tasks above; (3) You must bring codes written in the lab sheet; marks will be given based on that. Best regards,
 - Lecture7: (Date: Mar 15th, 2026)
   - [PDF Slides]==> Comming soon
 
